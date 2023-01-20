@@ -1,0 +1,6 @@
+bin
+bin/**
+sagan.sh
+.DS_Store
+.DS_Store/*
+**/.DS_Store
